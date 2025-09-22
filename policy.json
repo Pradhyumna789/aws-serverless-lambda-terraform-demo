@@ -13,7 +13,7 @@
                 "logs:PutLogEvents"
             ],
             "Resource": [
-                "arn:aws:logs:us-east-1:772565387877:log-group:/aws/lambda/my-lambda:*"
+                "arn:aws:logs:us-east-1:your-account-id:log-group:/aws/lambda/my-lambda:*"
             ]   
         }
     ]
