@@ -3,4 +3,5 @@
 
 
 ## Use invoke url of api gateway to invoke the lambda function. Pass in a query parameter to the invoke url
-<img width="773" height="202" alt="image" src="https://github.com/user-attachments/assets/4f34c448-bcf7-441e-ad60-5c3c6bebc93f" />
+<img width="769" height="116" alt="image" src="https://github.com/user-attachments/assets/9cb7d3a3-2fd1-4455-ab14-5511037fe0d4" />
+
