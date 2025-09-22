@@ -1,3 +1,8 @@
+## Login to your AWS account 
+### export AWS_ACCESS_KEY_ID="YOUR_AWS_ACCESS_KEY_ID"
+### export AWS_SECRET_ACCESS_KEY="YOUR_AWS_SECRET_ACCESS_KEY"
+### terraform init, terraform plan, and terraform apply
+
 ## Enter your account id in the resource section in policy.json
 <img width="804" height="139" alt="image" src="https://github.com/user-attachments/assets/af5612b6-e190-4e71-b543-b35add08ef68" />
 
